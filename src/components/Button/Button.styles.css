@@ -1,0 +1,8 @@
+.clear-button {
+    width: max-content;
+    background-color: rgb(236, 236, 244);
+    padding:10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    font-weight: 400;
+}
